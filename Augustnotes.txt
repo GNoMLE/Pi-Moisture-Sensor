@@ -1,0 +1,5 @@
+-Increasing length of time for reading data
+-Analyzing the data, plotting, check distrbutions, in python
+-Reduce number of sig figs
+-Documentation write up
+-Kaggle account for Gnomle
