@@ -5,3 +5,4 @@
 -Kaggle account for Gnomle
 -Buy and set up automated watering with soaker tubes
 -Research better quality moisture sensors
+-Start design and build of sensor arm
