@@ -1,0 +1,10 @@
+-Increasing length of time for reading data
+-Analyzing the data, plotting, check distrbutions, in python
+-Reduce number of sig figs
+-Documentation write up - Build of photos/ collection 
+-Kaggle account for Gnomle
+-Buy and set up automated watering with soaker tubes
+-Research better quality moisture sensors
+-Start design and build of sensor arm
+-Discuss with farmers
+-Waterproofing/cases rpi
