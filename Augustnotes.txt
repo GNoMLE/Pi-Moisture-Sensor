@@ -7,3 +7,4 @@
 -Research better quality moisture sensors
 -Start design and build of sensor arm
 -Discuss with farmers
+-Waterproofing/cases rpi
