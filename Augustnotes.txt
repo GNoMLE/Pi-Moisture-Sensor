@@ -4,3 +4,4 @@
 -Documentation write up - Build of photos/ collection 
 -Kaggle account for Gnomle
 -Buy and set up automated watering with soaker tubes
+-Research better quality moisture sensors
