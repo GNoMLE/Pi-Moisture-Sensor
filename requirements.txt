@@ -1,0 +1,13 @@
+Adafruit-Blinka==2.2.0
+adafruit-circuitpython-busdevice==3.0.0
+adafruit-circuitpython-seesaw==1.5.1
+Adafruit-PlatformDetect==1.2.1
+Adafruit-PureIO==0.2.3
+circuitpython-build-tools==1.2.7
+Click==7.0
+pkg-resources==0.0.0
+rpi-ws281x==4.2.2
+RPi.GPIO==0.7.0
+semver==2.8.1
+spidev==3.4
+sysv-ipc==1.0.0
